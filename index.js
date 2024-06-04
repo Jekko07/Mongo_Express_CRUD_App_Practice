@@ -86,4 +86,4 @@ app.delete('/products/:id', async (req, res) => {
 
 app.listen(3000, () => {
     console.log("APP IS LISTENING ON PORT 3000!");
-})
+}) //localhost
